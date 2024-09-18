@@ -1,5 +1,3 @@
-# Create a README.md file with the content provided
-readme_content = """
 # Sequence Alignment Algorithm
 
 ## Overview
@@ -59,8 +57,6 @@ Sequence alignment is a fundamental problem in bioinformatics, where we aim to i
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 """
-
-# Save the content to a file
 file_path = "/mnt/data/README.md"
 with open(file_path, "w") as file:
     file.write(readme_content)
