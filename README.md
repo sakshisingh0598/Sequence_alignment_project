@@ -39,7 +39,6 @@ Sequence alignment is a fundamental problem in bioinformatics, where we aim to i
     ```bash
     git clone https://github.com/yourusername/sequence-alignment.git
     ```
-    ```
 3. Run the sequence alignment:
     ```bash
     python align_sequences.py
@@ -57,8 +56,7 @@ Sequence alignment is a fundamental problem in bioinformatics, where we aim to i
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 """
-file_path = "/mnt/data/README.md"
-with open(file_path, "w") as file:
-    file.write(readme_content)
+<img width="1318" alt="seq_2" src="https://github.com/user-attachments/assets/73a0687b-16b7-4cb8-8f82-94988ea17715">
 
-file_path
+<img width="1318" alt="seq_1" src="https://github.com/user-attachments/assets/037d04a2-d5d9-467e-866a-108d37a8f68a">
+
